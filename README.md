@@ -21,35 +21,12 @@ In the modern digital age most photos are captured on smartphones or digital cam
 
 Travel enthusiasts and Independent photographers often like to map their journeys and visually recollect them when given a chance, but are unable to do so with so many pictures backed up and no means to visualize them
 
-## The architecture
-
-![Roughly, here's how it works](https://github.com/SrivatsaRv/EXIF-to-Google-Maps/systemdesign.png)
 
 
-## Flowchart 
-
-![Flowchart](https://github.com/SrivatsaRv/EXIF-to-Google-Maps/flowchart.png)
+(https://github.com/SrivatsaRv/EXIF-to-Google-Maps/systemdesign.png)
 
 
-## Project roadmap
-
-![Roadmap](https://github.com/shophy26/Project-CoviBro/blob/master/Images/CoviBro_Roadmap.png)
-
-certifi==2019.9.11
-chardet==3.0.4
-
-docopt==0.6.2
-
-idna==2.8
-
-pytz==2019.2
-requests==2.22.0
-
-six==1.12.0
-typing==3.7.4.1
-
-
-yarg==0.1.9
+(https://github.com/SrivatsaRv/EXIF-to-Google-Maps/flowchart.png)
 
 
 ## Modules Used
