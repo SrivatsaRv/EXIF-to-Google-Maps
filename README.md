@@ -23,10 +23,10 @@ Travel enthusiasts and Independent photographers often like to map their journey
 
 
 
-![System Design](https://github.com/SrivatsaRv/EXIF-to-Google-Maps/systemdesign.png)
+![System Design](https://github.com/SrivatsaRv/EXIF-to-Google-Maps/blob/main/systemdesign.png)
 
 
-![Flowchart](https://github.com/SrivatsaRv/EXIF-to-Google-Maps/flowchart.png)
+![Flowchart](https://github.com/SrivatsaRv/EXIF-to-Google-Maps/blob/main/flowchart.png)
 
 
 ## Modules Used
