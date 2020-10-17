@@ -8,7 +8,7 @@
 1. [Objectives](#objectives)
 1. [System Architectural Design](#system-architectural-design)
 1. [Flowchart](#flowchart)
-1. [Modules Used] (#modules-used)
+1. [Modules Used](#modules-used)
 
 
 
